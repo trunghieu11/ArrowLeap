@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowLeap.CSharp", "ArrowLeap.CSharp.csproj", "{8B8E3E16-C128-08A9-FE9F-5C85B86A1703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrowLeap.CSharp.Editor", "ArrowLeap.CSharp.Editor.csproj", "{2CE986A9-180F-9440-905D-2C1C1E3105FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8E3E16-C128-08A9-FE9F-5C85B86A1703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8E3E16-C128-08A9-FE9F-5C85B86A1703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8E3E16-C128-08A9-FE9F-5C85B86A1703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8E3E16-C128-08A9-FE9F-5C85B86A1703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE986A9-180F-9440-905D-2C1C1E3105FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE986A9-180F-9440-905D-2C1C1E3105FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE986A9-180F-9440-905D-2C1C1E3105FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE986A9-180F-9440-905D-2C1C1E3105FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

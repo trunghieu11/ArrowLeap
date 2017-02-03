@@ -19,4 +19,14 @@ public class InputManager : Singleton<InputManager>
 			return false;
 		}
 	}
+
+    public bool TouchBack {
+        get {
+            if (Input.GetKey(KeyCode.Escape)) {
+                return true;
+            }
+
+            return false;
+        }
+    }
 }

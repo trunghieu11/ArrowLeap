@@ -25,7 +25,7 @@ public class UIController : Singleton<UIController>
 	private Sprite soundEnabledTexture;
 	private Sprite soundDisabledTexture;
 
-    private string playstoreUrl = "https://play.google.com/store/apps/details?id=com.eleven.SpinTheCircle";
+    private string playstoreUrl = "https://play.google.com/store/apps/details?id=com.eleven.jumpingarrow";
 
 	// Use this for initialization
 	void Start ()
